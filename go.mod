@@ -1,3 +1,2 @@
-module github.com/cubasics/calc/calc
-
+module github.com/cubasics/calc
 go 1.20
